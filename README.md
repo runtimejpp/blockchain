@@ -10,4 +10,4 @@ we can easily index a block by creating some index function..
 
 
 #testing the console.log(hash) to receive our proof
-<img width="709" alt="Screen Shot 2022-04-19 at 17 28 43" src="https://user-images.githubusercontent.com/37848207/164105239-fb2434c7-93d5-4d33-95ab-3f1fa92e03c3.png">
+<img width="1013" alt="Screen Shot 2022-04-19 at 17 35 42" src="https://user-images.githubusercontent.com/37848207/164105899-6be275fd-f296-447d-b25a-5ea6f4dd8a1b.png">
