@@ -5,7 +5,7 @@ const previousBlockHash = 'KJFHIUFGHU';
 const currentBlockData = [
   {
     amount: 10,
-    sender: 'dkjhfdsdsd',
+    sender: 'dkjhfdsdsaad',
     recipient: 'FIUHGDSFIUHDF'
   },
   {
@@ -19,7 +19,15 @@ const currentBlockData = [
     recipient: 'FIUVDVDSVFDSFSDHGDSFIUHDF'
   }
 ];
- const nonce = 200;
+ 
+
+console.log(bitcoin.proofOfWork(previousBlockHash, currentBlockData)); 
 
 
-console.log(bitcoin.hashBlock(previousBlockHash, currentBlockData, nonce));
+
+
+
+
+
+
+
